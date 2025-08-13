@@ -24,6 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <script defer src="http://localhost:3000/script.js" data-website-id="bce51842-bc04-4d62-83e1-6d1afaca7c60"></script>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
